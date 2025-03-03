@@ -1,0 +1,10 @@
+^C:\USERS\TRYTO\ONEDRIVE\РАБОЧИЙ СТОЛ\СЕМИНАРЫ ИНФА\ПЛЮСЫ\2 СЕМЕСТР\LAB1\YET_ANOTHER_EDUCATIONAL_COWSAY\BUILD\CMAKEFILES\F1FD406909EC3AFE0BD796230D44534F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/yet_another_educational_cowsay" "-BC:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/yet_another_educational_cowsay/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/tryto/OneDrive/Рабочий стол/семинары инфа/плюсы/2 семестр/lab1/yet_another_educational_cowsay/build/YetAnotherEducationalCowsay.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

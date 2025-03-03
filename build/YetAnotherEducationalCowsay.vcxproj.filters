@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\ASCIIPicture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Cloud.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Cow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Field.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\ASCIIPicture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Cloud.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Cow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Field.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\Parser.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tryto\OneDrive\Рабочий стол\семинары инфа\плюсы\2 семестр\lab1\yet_another_educational_cowsay\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{75C838D0-460B-3A7A-BDA2-6FD60DC0862A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2F4D6BBD-FB2D-3578-97AE-8FC50E7C20B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
